@@ -1,6 +1,8 @@
 # GO_baby_step
 # GO语言入门学习资料
 
+![image-20201209205639439](../../../Library/Application%20Support/typora-user-images/image-20201209205639439.png)
+
 ## GO开源电子书
 
 1. Go语言圣经https://www.kancloud.cn/hartnett/gopl-zh/126044
