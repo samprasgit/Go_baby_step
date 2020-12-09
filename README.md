@@ -17,3 +17,30 @@
 
 
 
+0.Go初探 - [x] 
+
+
+
+[1.数据类型、关键字、标识符](https://github.com/datawhalechina/go-talent/blob/master/1.数据类型、关键字、标识符.md)
+
+[2.变量、常量、枚举](https://github.com/datawhalechina/go-talent/blob/master/2.变量、常量、枚举.md)
+
+[3.运算符、控制语句](https://github.com/datawhalechina/go-talent/blob/master/3.运算符、控制语句.md)
+
+[4.字典、字符串](https://github.com/datawhalechina/go-talent/blob/master/4.字典、字符串.md)
+
+[5.数组、切片](https://github.com/datawhalechina/go-talent/blob/master/5.数组、切片.md)
+
+[6.函数](https://github.com/datawhalechina/go-talent/blob/master/6.函数.md)
+
+[7.结构体、方法、接口](https://github.com/datawhalechina/go-talent/blob/master/7.结构体、方法、接口.md)
+
+[8.包管理](https://github.com/datawhalechina/go-talent/blob/master/8.包管理.md)
+
+[9.异常处理](https://github.com/datawhalechina/go-talent/blob/master/9.异常处理.md)
+
+[10.反射机制](https://github.com/datawhalechina/go-talent/blob/master/10.反射机制.md)
+
+[11.单元测试](https://github.com/datawhalechina/go-talent/blob/master/11.单元测试.md)
+
+[12.并发编程](https://github.com/datawhalechina/go-talent/blob/master/12.并发编程.md)
