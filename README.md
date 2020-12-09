@@ -1,7 +1,7 @@
 # GO_baby_step
 # GO语言入门学习资料
 
-![image-20201209205639439](../../../Library/Application%20Support/typora-user-images/image-20201209205639439.png)
+![golang](README.assets/golang.png)
 
 ## GO开源电子书
 
@@ -13,21 +13,18 @@
 
 参考：
 
-有没有推荐的golang的练手项目？[https://www.zhihu.com/search?type=content&q=go%20%20%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE](https://www.zhihu.com/search?type=content&q=go  练习项目)
+[有没有推荐的golang的练手项目？]([https://www.zhihu.com/search?type=content&q=go%20%20%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE](https://www.zhihu.com/search?type=content&q=go  练习项目))
 
+[7天用Go从零实现系列](https://github.com/geektutu/7days-golang)
 
+- [x] 0.Go初探
 
-0.Go初探 - [x] 
+- [x] 1.数据类型、关键字、标识符
 
+- [x] 2.变量、常量、枚举
+- [ ] 3.运算符、控制语句
 
-
-[1.数据类型、关键字、标识符](https://github.com/datawhalechina/go-talent/blob/master/1.数据类型、关键字、标识符.md)
-
-[2.变量、常量、枚举](https://github.com/datawhalechina/go-talent/blob/master/2.变量、常量、枚举.md)
-
-[3.运算符、控制语句](https://github.com/datawhalechina/go-talent/blob/master/3.运算符、控制语句.md)
-
-[4.字典、字符串](https://github.com/datawhalechina/go-talent/blob/master/4.字典、字符串.md)
+- [ ] 4.字典、字符串
 
 [5.数组、切片](https://github.com/datawhalechina/go-talent/blob/master/5.数组、切片.md)
 
