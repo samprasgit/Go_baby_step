@@ -13,6 +13,8 @@
 
 参考：
 
+[go-talent](https://github.com/datawhalechina/go-talent)
+
 [有没有推荐的golang的练手项目？]([https://www.zhihu.com/search?type=content&q=go%20%20%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE](https://www.zhihu.com/search?type=content&q=go  练习项目))
 
 [7天用Go从零实现系列](https://github.com/geektutu/7days-golang)
@@ -22,22 +24,22 @@
 - [x] 1.数据类型、关键字、标识符
 
 - [x] 2.变量、常量、枚举
-- [ ] 3.运算符、控制语句
+- [x] 3.运算符、控制语句
 
-- [ ] 4.字典、字符串
+- [x] 4.字典、字符串
 
-[5.数组、切片](https://github.com/datawhalechina/go-talent/blob/master/5.数组、切片.md)
+- [x] 5.数组、切片
 
-[6.函数](https://github.com/datawhalechina/go-talent/blob/master/6.函数.md)
+- [x] 6.函数
 
-[7.结构体、方法、接口](https://github.com/datawhalechina/go-talent/blob/master/7.结构体、方法、接口.md)
+7.结构体、方法、接口
 
-[8.包管理](https://github.com/datawhalechina/go-talent/blob/master/8.包管理.md)
+- [x] 8.包管理
 
-[9.异常处理](https://github.com/datawhalechina/go-talent/blob/master/9.异常处理.md)
+9.异常处理
 
-[10.反射机制](https://github.com/datawhalechina/go-talent/blob/master/10.反射机制.md)
+10.反射机制
 
-[11.单元测试](https://github.com/datawhalechina/go-talent/blob/master/11.单元测试.md)
+11.单元测试
 
-[12.并发编程](https://github.com/datawhalechina/go-talent/blob/master/12.并发编程.md)
+12.并发编程
