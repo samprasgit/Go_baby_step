@@ -15,7 +15,7 @@
 
 [go-talent](https://github.com/datawhalechina/go-talent)
 
-[有没有推荐的golang的练手项目？](https://www.zhihu.com/search?type=content&q=go  练习项目)
+[有没有推荐的golang的练手项目？](https://www.zhihu.com/search?type=content&q=go练习项目)
 
 [7天用Go从零实现系列](https://github.com/geektutu/7days-golang)
 
