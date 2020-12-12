@@ -1,5 +1,5 @@
 # GO_baby_step
-# GO语言入门学习资料
+-> GO语言入门学习资料以及datawhale go开源学习笔记整理
 
 ![golang](README.assets/golang.png)
 
