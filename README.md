@@ -19,6 +19,8 @@
 
 [7天用Go从零实现系列](https://github.com/geektutu/7days-golang)
 
+[Golang 代码质量持续检测]()
+
 - [x] 0.Go初探
 
 - [x] 1.数据类型、关键字、标识符
